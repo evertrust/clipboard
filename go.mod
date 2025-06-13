@@ -1,1 +1,1 @@
-module github.com/evertrust/clipboard
+module github.com/atotto/clipboard
