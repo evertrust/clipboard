@@ -3,6 +3,11 @@
 
 package clipboard
 
+import (
+	"errors"
+)
+
+
 func readAll() (string, error) {
 	return "", errors.New("Clipboard operations are not supported on AIX")
 }
